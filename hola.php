@@ -1,1 +1,4 @@
-HOLA Chao
+<?php
+    echo "Hola Mundo";
+
+?>
